@@ -7,6 +7,8 @@
 # My projects
 ### Backend
 - Java Discord bot: https://github.com/ssshahzod/discord-java-bot
+![image](https://user-images.githubusercontent.com/55853125/224676551-4c5c4bb0-6e93-4234-bc4c-c3f5a2a1f0d0.png)
+
 - PasteBin alike backend service: https://github.com/ssshahzod/PasteBin
 - E-shop Spring Backend: https://github.com/ssshahzod/Online-Market
 
