@@ -7,8 +7,8 @@
 # My projects
 ### Backend
 - Java Discord bot: https://github.com/ssshahzod/discord-java-bot
-- E-shop Spring Backend: https://github.com/ssshahzod/Online-Market
 - PasteBin alike backend service: https://github.com/ssshahzod/PasteBin
+- E-shop Spring Backend: https://github.com/ssshahzod/Online-Market
 
 ### Mobile
 - Android game: https://github.com/ssshahzod/AndroidCVgame
@@ -17,6 +17,7 @@
 - Algorithms and data structures: https://github.com/ssshahzod/C-AlgorithmsAndStructures
 - OOP: https://github.com/ssshahzod/labs3Semm
 - Low level programming: https://github.com/ssshahzod/ARM_ASSEMBLY
+- Rust + Hamming code: https://github.com/ssshahzod/Hamming-code
 
 # 📕 Learning
 - Java 11
